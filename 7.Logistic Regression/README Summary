@@ -1,0 +1,49 @@
+Logistic Regression ML Project – EDA to Streamlit Deployment
+ project demonstrates an end-to-end machine learning pipeline using Logistic Regression for binary classification.
+
+📌 Project Workflow:
+Exploratory Data Analysis (EDA)
+
+Summary statistics, feature types, and correlations
+
+Visualizations: Histograms, box plots, pair plots
+
+Data Preprocessing
+
+Handling missing values
+
+Encoding categorical variables
+
+Model Building
+
+Logistic Regression using scikit-learn
+
+Train-test split and model training
+
+Model Evaluation
+
+Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
+
+ROC Curve visualization
+
+Model Interpretation
+
+Coefficients analysis
+
+Feature significance in predicting the target (e.g., survival probability)
+
+Deployment with Streamlit
+
+Interactive web app for user inputs and predictions
+
+Locally runnable or deployed via Streamlit Community Cloud
+
+💻 Tech Stack:
+Python
+
+Pandas, NumPy, Matplotlib, Seaborn
+
+Scikit-learn
+
+Streamlit
+
